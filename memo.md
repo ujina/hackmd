@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/pNgLvVPjSaGixA_M2bjsPw/badge)](https://hackmd.io/pNgLvVPjSaGixA_M2bjsPw)
 
 ## 血糖値を上げる唯一の食べものは糖質である
 
@@ -10,3 +11,7 @@
 ## 血糖値は糖質の摂取のみで上がるのではない
 
 「血糖値は糖質の摂取のみで上がるのではない」からである。
+
+
+つまり、糖質を摂取しない糖質制限食をしていても血糖値が上がる（乱高下もする）ことがあり、とすると、糖尿病の対策が唯一糖質制限食にあるのではない、ということになる。
+
